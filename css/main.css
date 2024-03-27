@@ -1,0 +1,26 @@
+.card-container{
+    margin: 50px;
+}
+
+
+
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 100px;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+

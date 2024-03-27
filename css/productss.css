@@ -1,0 +1,20 @@
+.prod-con{
+    width: 320px;
+    height: 400px;
+    display: flex;
+    margin: 70px;
+    flex-direction: column;
+    
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}

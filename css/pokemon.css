@@ -1,0 +1,64 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 100px;
+    list-style-type: none;
+    justify-content: center;
+}
+
+
+li{
+    margin: 50px;
+    border: 2px solid rgb(2, 2, 2);
+    padding: 50px;
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+
+h3{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.details-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 600px;
+    align-items: center;
+    margin-left: 34%;
+    border: 2px solid rgb(12, 12, 12);
+  
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    font-size: 25px;
+    font-weight: 500;
+}
+
