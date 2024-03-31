@@ -1,5 +1,6 @@
 ##LIVE --> https://pokemonspedia.netlify.app/
 
+This Project is Created in NextJS and completeley Server-sider-rendered good for SEO and perfomance purpose.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
